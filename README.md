@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
