@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Spring+Boot&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=25)](https://git.io/typing-svg)
 
-![Spring](https://img.shields.io/badge/Spring-Boot-green?style=for-the-badge&logo=spring)
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java)
-![Security](https://img.shields.io/badge/Security-Spring%20Security-blue?style=for-the-badge)
+
+![Spring](https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
