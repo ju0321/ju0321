@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Spring+Boot+%7C&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=25)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Spring+Boot&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=25)](https://git.io/typing-svg)
+
+![Spring](https://img.shields.io/badge/Spring-Boot-green?style=for-the-badge&logo=spring)
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
+![Security](https://img.shields.io/badge/Security-Spring%20Security-blue?style=for-the-badge)
