@@ -1,9 +1,10 @@
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer&center=true&width=500&size=30">
 </p>
 
----
+
 
 ## 👋 About Me
 
@@ -40,7 +41,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
----
+
 
 ## 🧑‍💻 Contact Me
 
