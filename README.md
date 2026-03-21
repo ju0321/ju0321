@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Spring+Security+Learner&center=true&width=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;)](https://git.io/typing-svg)
 
 ---
 
