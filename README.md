@@ -10,7 +10,7 @@
 |----------------|------------|
 | Backend Developer | Spring Boot, C/C++, MySQL |
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=black)
 
----
+
 
 ## 🌱 Currently Learning ...
 
