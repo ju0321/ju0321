@@ -11,10 +11,12 @@
 
 ## 👋 About Me
 
-🔭 Current Role | 🌱 Learning  
-Backend Developer | Spring Boot, C/C++, MySQL  
-
 </div>
+
+🔭 Current Role | 🌱 Learning  
+Backend Developer | Spring Boot, C/C++, MySQL 
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -47,4 +49,4 @@ Backend Developer | Spring Boot, C/C++, MySQL
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ju0321)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jjiiu_0)
 
-</div>agram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jjiiu_0)
+</div>
