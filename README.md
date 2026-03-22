@@ -6,17 +6,15 @@
 
 
 
+
 <div align="center">
 
 ## 👋 About Me
 
+🔭 Current Role | 🌱 Learning  
+Backend Developer | Spring Boot, C/C++, MySQL  
+
 </div>
-
-| 🔭 Current Role | 🌱 Learning |
-|----------------|------------|
-| Backend Developer | Spring Boot, C/C++, MySQL |
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
