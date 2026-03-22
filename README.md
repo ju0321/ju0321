@@ -6,17 +6,14 @@
 
 
 
-
 <div align="center">
 
 ## 👋 About Me
 
-</div>
-
 🔭 Current Role | 🌱 Learning  
-Backend Developer | Spring Boot, C/C++, MySQL 
+Backend Developer | Spring Boot, C/C++, MySQL  
 
-<div align="center">
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -36,12 +33,16 @@ Backend Developer | Spring Boot, C/C++, MySQL
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=black)
 
+<br/>
+
 ## 🌱 Currently Learning ...
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+<br/>
 
 ## 🧑‍💻 Contact Me
 
